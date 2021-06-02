@@ -1,1 +1,1 @@
-Este es el código para la versión generica
+Este es el código para la versión de mentores
