@@ -1,0 +1,77 @@
+
+
+body {
+    background-color:#C2D4E6;
+    font-family: 'Comfortaa', cursive;
+}
+
+#mainNavbar {
+    background:#0353a4;
+    height: 7%;
+}
+
+#mainNavbar .nav-link {
+ font-size: 1.15rem;
+ font: weight 150; 
+ color: #fffcf2;
+}
+
+#mainNavbar .nav-link:hover {
+    background-color:#FCF9C5;
+    color: #000000;     
+}
+
+#mainNavbar .navbar-brand {
+    font-size:1.35rem;
+    font: weight 200;
+}
+
+
+#pic1{ 
+
+    border-radius: 59px !important; 
+    padding-top: 40px;
+    max-width:100%;
+    height:auto;
+    width: 66%;
+    margin: 1px auto;
+    display: block;
+    object-fit: contain;
+
+}
+
+#reporte {
+
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    padding: 150px; 
+
+}
+
+.center {
+    padding-top: 8px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}    
+
+
+
+#h2 {
+    font-size: 3vw;
+    padding-top:30px;
+    text-align:center;
+    color: white;
+    line-height: 1.5;
+}
+
+.content {
+    margin-top:100px;
+}
+
+p {
+    font-size: 1.5em;
+    color: white;
+    text-align:center;
+}

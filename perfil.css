@@ -1,0 +1,25 @@
+body {
+    background:#0353a4;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+#mainNavbar .nav-link {
+ font-size: 1.15rem;
+ font: weight 150; 
+ color: #fffcf2;
+}
+
+#mainNavbar .nav-link:hover {
+    background-color:#FCF9C5;
+    color: #000000;     
+}
+
+#mainNavbar .navbar-brand {
+    font-size:1.35rem;
+    font: weight 200;
+}
+
+.nav-item {
+    text-align: right;
+}
