@@ -1,0 +1,74 @@
+
+
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background:#F4D8CA;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+#mainNavbar {
+    background-color:#FFC5A9;
+    height: 7%;
+}
+
+#mainNavbar .nav-link {
+ font-size: 1.2rem;
+ font: weight 150; 
+ color: #fffcf2;
+}
+
+
+#mainNavbar .nav-link:hover {
+    background-color:#990d35;
+    color: #ffffff;     
+}
+
+#mainNavbar .navbar-brand {
+    font-size:1.35rem;
+    font: weight 200;
+}
+
+.navLinks {
+    text-align: right;
+}
+
+.Slideshow {
+    border-radius: 7px !important; 
+    padding-top: 50px;
+    max-width:160%;
+    height:auto;
+    width: 70%;
+    margin: 1px auto;
+    display: block;
+    object-fit: contain;
+
+}
+
+.center {
+    padding-top: 10px;
+    text-align: center;
+    color: white
+}
+
+.content {
+    margin-top:100px;
+}
+
+p {
+    color: #fffcf2;
+    font-size: 1.5rem;
+    padding-top:30px;
+    line-height: 1.35;
+}
+ h2 {
+     color:#fffcf2;
+  
+ }
+
